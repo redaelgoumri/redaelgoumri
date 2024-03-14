@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/redaelgoumri?tab=repositories](https://github.com/redaelgoumri?tab=repositories)
 
-- 💬 Ask me about **Javascript/Typescript, AngularJS &**
+- 💬 Ask me about **Javascript/Typescript, Angular & React**
 
 - 📫 How to reach me **elgoumri.reda.2001@gmail.com**
 
