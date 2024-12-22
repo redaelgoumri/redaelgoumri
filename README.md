@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm El Goumri Reda</h1>
 <h3 align="center">A passionate software developer from Morocco. Still at the beginning of my journey.</h3>
 
-- 🔭 I’m currently working on [Sweetz- a .NET MVC Ecommerce Project](no link yet)
 
-- 🌱 I’m currently learning **.NET & ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/redaelgoumri?tab=repositories](https://github.com/redaelgoumri?tab=repositories)
-
-- 💬 Ask me about **Javascript/Typescript, Angular & React**
 
 - 📫 How to reach me **elgoumri.reda.2001@gmail.com**
 
