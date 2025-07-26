@@ -1,22 +1,53 @@
-<h1 align="center">Hi 👋, I'm El Goumri Reda</h1>
-<h3 align="center">A passionate software developer from Morocco. Still at the beginning of my journey.</h3>
+# Hi 👋, I'm El Goumri Reda
 
+🎓 Software & Networks Engineering student (2025) from Morocco  
+💻 Passionate full-stack developer with hands-on experience in web, mobile & backend development  
+🌍 Actively seeking **remote opportunities** to contribute to impactful projects
 
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/redaelgoumri?tab=repositories](https://github.com/redaelgoumri?tab=repositories)
+### 🚀 Tech Stack
 
-- 📫 How to reach me **elgoumri.reda.2001@gmail.com**
+**Frontend**  
+React.js • Angular • Bootstrap • HTML/CSS • TypeScript • Chart.js • MUI • NgZorro  
 
-- ⚡ Fun fact **I'm an expert at Microsoft Power Platform**
+**Backend**  
+Spring Boot • Node.js • Django • .NET Core • ASP.NET • PHP • Ruby on Rails • Express.js  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/redaelgoumri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/redaelgoumri" height="30" width="40" /></a>
-<a href="https://twitter.com/reda_oh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reda_oh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/reda-el-goumri-300028222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reda-el-goumri-300028222/" height="30" width="40" /></a>
-</p>
+**Mobile**  
+Flutter • Android (Kotlin) • React Native • Xamarin • Ionic  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+**Database & Cloud**  
+MySQL • PostgreSQL • Oracle • Firebase • Supabase • MongoDB • SQL Server  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=redaelgoumri&show_icons=true&locale=en&layout=compact" alt="redaelgoumri" /></p>
+**DevOps & Tools**  
+Docker • Git • GitHub Actions • Azure • Maven • Jira • Heroku • Postman • REST APIs  
+
+**AI & ML**  
+TensorFlow • Keras • PyTorch • NumPy • DeepFace
+
+---
+
+### 🧠 About Me
+
+- 🌱 I’m currently improving my skills in **Cloud Development** and **Security (OAuth2, JWT, Keycloak)**
+- 👨‍💻 All my major projects are available [here](https://github.com/redaelgoumri?tab=repositories)
+- 📫 Reach me at: **elgoumri.reda.2001@gmail.com**
+- 🧠 Fun fact: I’ve built apps using 10+ stacks — from POS dashboards to facial recognition systems
+- 🔗 LinkedIn: [linkedin.com/in/elgoumri-reda](https://linkedin.com/in/elgoumri-reda)
+
+---
+
+### 📌 Pinned Projects
+
+- **IDENTIFYER**: Attendance app with facial recognition (Python + Flutter + DeepFace)  
+- **KRIBNB**: Full-stack rental platform (Angular + Spring Boot + MySQL)  
+- **BUDGETEER**: Budgeting mobile app (Ruby on Rails + PostgreSQL)  
+- **KINGONEWS**: Online news publishing platform (Angular + Firebase)
+
+---
+
+### 📊 GitHub Stats (Optional)
+
+![Reda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=redaelgoumri&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redaelgoumri&layout=compact&theme=tokyonight)
