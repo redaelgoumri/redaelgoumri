@@ -8,14 +8,14 @@
 
 ### 🚀 Tech Stack
 
+**Mobile**  
+Flutter (Native, Riverpod, BLoC) • Android (Kotlin) • React Native • Xamarin • Ionic  
+
 **Frontend**  
 React.js • Angular • Bootstrap • HTML/CSS • TypeScript • Chart.js • MUI • NgZorro  
 
 **Backend**  
 Spring Boot • Node.js • Django • .NET Core • ASP.NET • PHP • Ruby on Rails • Express.js  
-
-**Mobile**  
-Flutter • Android (Kotlin) • React Native • Xamarin • Ionic  
 
 **Database & Cloud**  
 MySQL • PostgreSQL • Oracle • Firebase • Supabase • MongoDB • SQL Server  
